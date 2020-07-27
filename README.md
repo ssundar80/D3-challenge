@@ -1,4 +1,6 @@
-# D3-challenge
+![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
+
+# D3 Challenge: Health Risks by Demographics
 
 **Background**
 
